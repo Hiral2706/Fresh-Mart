@@ -6,7 +6,7 @@ Fresh Mart is a modern, responsive e-commerce web application designed to delive
 
 ## ✨ Features
 
-- 🛍️ Browse products with clean UI  
+- 🛍️ Browse products with clean and modern UI  
 - 🔍 Search and filter functionality  
 - 🛒 Add to cart / remove from cart  
 - 📦 Dynamic product handling  
@@ -18,6 +18,8 @@ Fresh Mart is a modern, responsive e-commerce web application designed to delive
 ## 🛠️ Tech Stack
 
 - Frontend: HTML, CSS, JavaScript / React  
+- Backend: (Can be added in future)  
+- Database: (Can be integrated later)  
 
 ---
 
